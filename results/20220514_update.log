@@ -1,0 +1,243 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.5.14)  14 MAY 2022 21:26
+entering extended mode
+**./20220514_update.tex
+(20220514_update.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.st
+y
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.s
+ty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count190
+\float@exts=\toks18
+\float@box=\box50
+\@float@everytoks=\toks19
+\@floatcapt=\box51
+)
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box52
+) (20220514_update.aux)
+\openout1 = `20220514_update.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen141
+\scratchbox=\box53
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen142
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+
+(C:\Users\ledzianpw\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[1
+
+{C:/Users/ledzianpw/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+<square10_4agent_5trees.png, id=19, 2258.4375pt x 1340.00626pt>
+File: square10_4agent_5trees.png Graphic file (type png)
+<use square10_4agent_5trees.png>
+Package pdftex.def Info: square10_4agent_5trees.png  used on input line 50.
+(pdftex.def)             Requested size: 390.0pt x 231.39668pt.
+[3]
+<square20_4agent_5trees.png, id=23, 2258.4375pt x 1340.00626pt>
+File: square20_4agent_5trees.png Graphic file (type png)
+<use square20_4agent_5trees.png>
+Package pdftex.def Info: square20_4agent_5trees.png  used on input line 55.
+(pdftex.def)             Requested size: 390.0pt x 231.39668pt.
+<square30_4agent_5trees.png, id=24, 2258.4375pt x 1340.00626pt>
+File: square30_4agent_5trees.png Graphic file (type png)
+<use square30_4agent_5trees.png>
+Package pdftex.def Info: square30_4agent_5trees.png  used on input line 60.
+(pdftex.def)             Requested size: 390.0pt x 231.39668pt.
+ [4 <./square10_4agent_5trees.png (PNG copy)> <./square20_4agent_5trees.png (PN
+G copy)>]
+<square10_4agent_5trees_stree_steps.png, id=28, 2258.4375pt x 1340.00626pt>
+File: square10_4agent_5trees_stree_steps.png Graphic file (type png)
+<use square10_4agent_5trees_stree_steps.png>
+Package pdftex.def Info: square10_4agent_5trees_stree_steps.png  used on input 
+line 67.
+(pdftex.def)             Requested size: 390.0pt x 231.39668pt.
+<square20_4agent_5trees_stree_steps.png, id=29, 2258.4375pt x 1340.00626pt>
+File: square20_4agent_5trees_stree_steps.png Graphic file (type png)
+<use square20_4agent_5trees_stree_steps.png>
+Package pdftex.def Info: square20_4agent_5trees_stree_steps.png  used on input 
+line 72.
+(pdftex.def)             Requested size: 390.0pt x 231.39668pt.
+ [5 <./square30_4agent_5trees.png (PNG copy)> <./square10_4agent_5trees_stree_s
+teps.png (PNG copy)>]
+<square30_4agent_5trees_stree_steps.png, id=33, 2258.4375pt x 1340.00626pt>
+File: square30_4agent_5trees_stree_steps.png Graphic file (type png)
+<use square30_4agent_5trees_stree_steps.png>
+Package pdftex.def Info: square30_4agent_5trees_stree_steps.png  used on input 
+line 77.
+(pdftex.def)             Requested size: 390.0pt x 231.39668pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+[6 <./square20_4agent_5trees_stree_steps.png (PNG copy)> <./square30_4agent_5tr
+ees_stree_steps.png (PNG copy)>]
+No file 20220514_update.bbl.
+[7] (20220514_update.aux) ) 
+Here is how much of TeX's memory you used:
+ 1854 strings out of 478868
+ 27965 string characters out of 2846913
+ 319904 words of memory out of 3000000
+ 19778 multiletter control sequences out of 15000+600000
+ 412187 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,66p,1301b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/ledzianpw/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ledzianpw/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ledzianpw/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/led
+zianpw/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Users/ledzianpw/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb><C:/Users/ledzianpw/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Users/ledzianpw/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ledzianpw/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ledzianpw/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ledzianpw/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
+rs/ledzianpw/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/
+msam10.pfb>
+Output written on 20220514_update.pdf (7 pages, 1001676 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
