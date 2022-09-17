@@ -51,16 +51,16 @@ std_dev = std(idxs);
 
 figure()
 subplot(1,2,1)
-hist(idxs(:,1))
+hist(idxs(:,2))
 xlabel("Sim steps")
 ylabel("Occurances")
-title("Sim steps before first spanning tree; " + "worst case=" + max(idxs(:,1)) + " steps")
+title("Sim steps before first spanning tree; " + "worst case=" + max(idxs(:,2)) + " steps")
 
 subplot(1,2,2)
-hist(idxs(:,3))
+hist(idxs(:,4))
 xlabel("Sim steps")
 ylabel("Occurances")
-title("Sim steps before third spanning tree; " + "worst case=" + max(idxs(:,3)) + " steps")
+title("Sim steps before third spanning tree; " + "worst case=" + max(idxs(:,4)) + " steps")
 
 sgtitle(num_agents + " agents; " + "boundary: " + bounds(1,2) + "x" + bounds(2,2))
 
